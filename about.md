@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am enthusiastic to learn and share!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+This is the place where we learn and grow together.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[hashmiarmish@gmail.com](mailto:hashmiarmish@gmail.com)
